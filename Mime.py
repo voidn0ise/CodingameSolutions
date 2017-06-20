@@ -1,5 +1,3 @@
-import sys
-import math
 import re
 
 n, q = int(input()), int(input())
